@@ -47,7 +47,7 @@ public class SkibidiApp {
 
         upg1Cost.setBounds(5, 29, 75, 50);
         upg1Cost.setText("50 Clicks");
-        upg1Cost.setFont(new Font("Comic Sans", Font.BOLD, 14));
+        upg1Cost.setFont(new Font("Fredroka One", Font.BOLD, 14));
         upg1Cost.setForeground(new Color(50, 50, 50));
 
         upg2Button.setBounds(0, 75, 75, 50);
@@ -55,7 +55,7 @@ public class SkibidiApp {
 
         upg2Cost.setBounds(0, 104, 100, 50);
         upg2Cost.setText("150 Clicks");
-        upg2Cost.setFont(new Font("Comic Sans", Font.BOLD, 14));
+        upg2Cost.setFont(new Font("Fredroka One", Font.BOLD, 14));
         upg2Cost.setForeground(new Color(50, 50, 50));
 
         upg1Button.addActionListener(new ActionListener() {
