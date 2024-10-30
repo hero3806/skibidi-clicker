@@ -26,7 +26,6 @@ public class SkibidiApp {
         frame.setTitle("Skibidi Clicker");
         frame.setResizable(false);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        // frame.setLayout(null);
 
         counterLabel.setVisible(true);
         counterLabel.setFont(new Font("fredoka one", Font.PLAIN, 25));
