@@ -8,6 +8,8 @@ import javax.swing.*;
 
 public class SkibidiApp {
 
+    // global integers
+
     static int count = 0;
     static int multiplier = 1;
 
